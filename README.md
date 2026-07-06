@@ -71,15 +71,18 @@ VITE_API_URL=https://lead-tracker-server.vercel.app/api
 5. Start the backend
    
 cd backend
+
 npm run seed    # loads dummy data
+
 npm run dev
 
 6. Start the frontend
-npm start
 
-7. Open the application
 cd frontend
-npm start
+
+npm run dev
+
+7. Open the Link
 
 Author
 Ananth E
