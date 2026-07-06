@@ -1,0 +1,9 @@
+
+body { background:#f5f7fb; }
+.stage-badge { font-size:.75rem; padding:.35em .6em; border-radius:12px; }
+.stage-New{background:#e0e7ff;color:#3730a3;}
+.stage-Contacted{background:#fef3c7;color:#92400e;}
+.stage-Proposal.Sent, .stage-ProposalSent{background:#dbeafe;color:#1e40af;}
+.stage-Negotiation{background:#fed7aa;color:#9a3412;}
+.stage-Closed.Won, .stage-ClosedWon{background:#d1fae5;color:#065f46;}
+.stage-Closed.Lost, .stage-ClosedLost{background:#fee2e2;color:#991b1b;}
